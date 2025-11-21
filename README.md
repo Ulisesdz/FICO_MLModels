@@ -62,7 +62,7 @@ FICO_MLModels_Project/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/Ulisesdz/FICO_MLModels_Project.git
+git clone https://github.com/Ulisesdz/FICO_MLModels.git
 cd FICO_MLModels_Project
 ```
 
